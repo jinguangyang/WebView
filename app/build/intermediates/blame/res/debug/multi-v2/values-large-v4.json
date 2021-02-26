@@ -1,0 +1,60 @@
+{
+    "logs": [
+        {
+            "outputFile": "F:\\project\\WebViewDemo-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-large-v4\\values-large-v4.xml",
+            "map": [
+                {
+                    "source": "D:\\AndroidSDK\\gradle\\caches\\transforms-2\\files-2.1\\1e861e59f3680f2628b94a043209a87e\\res\\values-large-v4\\values-large-v4.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10",
+                        "startColumns": "4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,114,185,256,326,396,464,532,636",
+                        "endColumns": "58,70,70,69,69,67,67,103,115",
+                        "endOffsets": "109,180,251,321,391,459,527,631,747"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,10,11",
+                        "startColumns": "4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,114,185,256,326,396,464,591,695",
+                        "endColumns": "58,70,70,69,69,67,67,103,115",
+                        "endOffsets": "109,180,251,321,391,459,527,690,806"
+                    }
+                },
+                {
+                    "source": "D:\\AndroidSDK\\gradle\\caches\\transforms-2\\files-2.1\\ea86544cf03755f88768032d74e7edee\\res\\values-large-v4\\values-large-v4.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,177",
+                        "endColumns": "121,133",
+                        "endOffsets": "172,306"
+                    },
+                    "to": {
+                        "startLines": "12,13",
+                        "startColumns": "4,4",
+                        "startOffsets": "811,933",
+                        "endColumns": "121,133",
+                        "endOffsets": "928,1062"
+                    }
+                },
+                {
+                    "source": "D:\\AndroidSDK\\gradle\\caches\\transforms-2\\files-2.1\\691b20417a0b80192a7b0ed9159af15b\\res\\values-large-v4\\values-large-v4.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "58",
+                        "endOffsets": "109"
+                    },
+                    "to": {
+                        "startLines": "9",
+                        "startColumns": "4",
+                        "startOffsets": "532",
+                        "endColumns": "58",
+                        "endOffsets": "586"
+                    }
+                }
+            ]
+        }
+    ]
+}
